@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "Maas_Bordrosu_Programi.Application.Web.WebServer\u002B\u003C\u003Ec",
+    "Method": "\u003CStart\u003Eb__2_0",
+    "RelativePath": "api/payroll/calculate",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Maas_Bordrosu_Programi.Application.Models.PayrollRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

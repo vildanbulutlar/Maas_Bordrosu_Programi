@@ -1,0 +1,13 @@
+﻿[
+  {
+    "EmployeeName": "mehmet arslan",
+    "Title": "Yonetici",
+    "WorkHours": 500,
+    "HourlyRate": 500,
+    "BasePay": 250000,
+    "OvertimePay": 0,
+    "Bonus": 3000,
+    "Message": "Y\u00F6netici maa\u015F\u0131 hesapland\u0131.",
+    "TotalPay": 253000
+  }
+]

@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\core\\ireportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\core\\ireportingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\core\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\core\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\bonus\\noperformancebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\bonus\\noperformancebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\bonus\\iperformancebonuspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\bonus\\iperformancebonuspolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\bonus\\clerkperformancebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\bonus\\clerkperformancebonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\helpers\\payrollvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\helpers\\payrollvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\helpers\\performancevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\helpers\\performancevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\helpers\\employeevalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\helpers\\employeevalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\policies\\paypolicyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\policies\\paypolicyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\json\\bordrolar_2025-08-22\\150_saat_alti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:json\\bordrolar_2025-08-22\\150_saat_alti.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\json\\bordrolar_2025-08-22\\tum_bordrolar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:json\\bordrolar_2025-08-22\\tum_bordrolar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\helpers\\titlevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\helpers\\titlevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\helpers\\ratevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\helpers\\ratevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\helpers\\hoursvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\helpers\\hoursvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|c:\\users\\asus\\source\\repos\\maas_bordrosu_programi\\maas_bordrosu_programi\\domain\\policies\\ipaypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCFC641-F99E-4BDB-B871-B6385BF820F5}|Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi.csproj|solutionrelative:maas_bordrosu_programi\\domain\\policies\\ipaypolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoPerformanceBonus.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Bonus\\NoPerformanceBonus.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Bonus\\NoPerformanceBonus.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Bonus\\NoPerformanceBonus.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Bonus\\NoPerformanceBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T05:55:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerformanceBonusPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Bonus\\IPerformanceBonusPolicy.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Bonus\\IPerformanceBonusPolicy.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Bonus\\IPerformanceBonusPolicy.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Bonus\\IPerformanceBonusPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:10:34.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Core\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Core\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Core\\EmployeeContext.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Core\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:10:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IReportingService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Core\\IReportingService.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Core\\IReportingService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Core\\IReportingService.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Core\\IReportingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:10:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClerkPerformanceBonus.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Bonus\\ClerkPerformanceBonus.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Bonus\\ClerkPerformanceBonus.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Bonus\\ClerkPerformanceBonus.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Bonus\\ClerkPerformanceBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:10:33.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\RateValidation.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Helpers\\RateValidation.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\RateValidation.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Helpers\\RateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:46:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoursValidation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\HoursValidation.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Helpers\\HoursValidation.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\HoursValidation.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Helpers\\HoursValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:45:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\EmployeeValidationHelper.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Helpers\\EmployeeValidationHelper.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\EmployeeValidationHelper.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Helpers\\EmployeeValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:20:36.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayPolicyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Policies\\PayPolicyResolver.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Policies\\PayPolicyResolver.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Policies\\PayPolicyResolver.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Policies\\PayPolicyResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:01:25.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPayPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Policies\\IPayPolicy.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Policies\\IPayPolicy.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Policies\\IPayPolicy.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Policies\\IPayPolicy.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:57:36.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerformanceValidation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\PerformanceValidation.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Helpers\\PerformanceValidation.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\PerformanceValidation.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Helpers\\PerformanceValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:46:23.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TitleValidation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\TitleValidation.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Helpers\\TitleValidation.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\TitleValidation.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Helpers\\TitleValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:46:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayrollValidation.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\PayrollValidation.cs",
+              "RelativeDocumentMoniker": "Maas_Bordrosu_Programi\\Domain\\Helpers\\PayrollValidation.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\Maas_Bordrosu_Programi\\Domain\\Helpers\\PayrollValidation.cs",
+              "RelativeToolTip": "Maas_Bordrosu_Programi\\Domain\\Helpers\\PayrollValidation.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIBJwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:51:27.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tum_bordrolar.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\json\\bordrolar_2025-08-22\\tum_bordrolar.json",
+              "RelativeDocumentMoniker": "json\\bordrolar_2025-08-22\\tum_bordrolar.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\json\\bordrolar_2025-08-22\\tum_bordrolar.json",
+              "RelativeToolTip": "json\\bordrolar_2025-08-22\\tum_bordrolar.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T06:45:50.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "150_saat_alti.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\json\\bordrolar_2025-08-22\\150_saat_alti.json",
+              "RelativeDocumentMoniker": "json\\bordrolar_2025-08-22\\150_saat_alti.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\Maas_Bordrosu_Programi\\json\\bordrolar_2025-08-22\\150_saat_alti.json",
+              "RelativeToolTip": "json\\bordrolar_2025-08-22\\150_saat_alti.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T06:45:54.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

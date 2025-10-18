@@ -1,0 +1,11 @@
+{
+  "EmployeeName": "Vildan Bulutlar",
+  "Title": "Yonetici",
+  "WorkHours": 200,
+  "HourlyRate": 600,
+  "BasePay": 120000,
+  "OvertimePay": 0,
+  "Bonus": 3000,
+  "Message": "Y\u00F6netici maa\u015F\u0131 hesapland\u0131. Performans bonusu: \u20BA3.000,00.",
+  "TotalPay": 123000
+}
